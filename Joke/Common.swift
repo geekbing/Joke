@@ -20,9 +20,12 @@ let screenWidth = UIScreen.mainScreen().bounds.size.width
 let screenHeight = UIScreen.mainScreen().bounds.size.height
 
 // 字体
-let font18 = UIFont.systemFontOfSize(15, weight: UIFontWeightRegular)
+let font18 = UIFont.systemFontOfSize(18, weight: UIFontWeightRegular)
+let font16 = UIFont.systemFontOfSize(16, weight: UIFontWeightRegular)
 
 let font15 = UIFont.systemFontOfSize(15, weight: UIFontWeightRegular)
+let font13 = UIFont.systemFontOfSize(13, weight: UIFontWeightRegular)
+
 let font10 = UIFont.systemFontOfSize(10, weight: UIFontWeightRegular)
 
 
