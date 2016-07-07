@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AVOSCloud (3.3.5)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Material (1.42.7)
+  - MJRefresh (3.1.9)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SnapKit (0.21.1)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AVOSCloud
+  - ChameleonFramework/Swift
+  - Material
+  - MJRefresh
+  - SDWebImage
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AVOSCloud: 1fe170768bee7e05bc3ea86e38d5bddb105cb957
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Material: 2d46a44719b1f19e52956518af8aea54ac714963
+  MJRefresh: c5f1f1653e5a1b932c90f78074f2bc86f3f9bd5e
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 930737add00ed9d4be6d560a31c5bc60d84053f8
+
+COCOAPODS: 1.0.1
